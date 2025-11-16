@@ -1,0 +1,9 @@
+Model,Tek Tahmin Süresi (saniye)
+Decision Tree,0.002557
+Random Forest,0.014552
+KNN,0.009247
+SVM,0.005254
+Logistic Regression,0.002267
+DNN,0.128348
+CNN,0.132886
+LSTM,0.467561

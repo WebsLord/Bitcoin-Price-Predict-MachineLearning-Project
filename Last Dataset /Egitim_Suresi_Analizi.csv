@@ -1,0 +1,9 @@
+Model,Eğitim Süresi (saniye)
+Decision Tree,6.695
+Random Forest,43.1735
+KNN,0.0265
+SVM,40.9989
+Logistic Regression,4.5725
+DNN,45.7349
+CNN,37.6363
+LSTM,37.0936
